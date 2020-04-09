@@ -1,0 +1,28 @@
+Current version:0.4.17+commit.bdeb9e52.Emscripten.clang
+to install truffle- hd wallet : npm install --save truffle-hdwallet-provider@0.0.3
+
+ganache : npm install --save ganache-cli
+mocha : npm install --save mocha 
+solidity : npm install --save solc@0.4.17
+fs-extra(for testing):  npm install --save fs-extra
+web3 : npm install --save web3@1.0.0-beta.26
+
+
+for front end part 
+npm install --save next@4.1.4 react react-dom
+
+
+
+
+git page for this : https://github.com/StephenGrider/EthereumCasts
+
+to install semantic UI 
+npm install --save semantic-ui-react
+
+note install git before doing all this and give all permission to git 
+
+
+
+to start server  : npm run dev
+to compile the solidity : node compile.js
+to deploy the contract : node deploy.js
