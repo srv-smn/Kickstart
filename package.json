@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "babel src -d lib",
     "test": "mocha",
     "dev": "node server.js"
   },
