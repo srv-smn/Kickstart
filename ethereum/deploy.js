@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-'frame apart post kick armed refuse limb armed annual jaguar apart cliff' ,
+'frame apart post kick armed ' ,
 'https://rinkeby.infura.io/v3/1ec6558c6dba4a9db1ab5f5b647d9a60'
 );
 
