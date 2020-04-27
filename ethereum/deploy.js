@@ -4,7 +4,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
 'frame apart post kick armed ' ,
-'https://rinkeby.infura.io/v3/1ec6558c6dba4a9db1ab5f5b647d9a60'
+'https://rinkeby.infura.io/v3/1ec6558c6db'
 );
 
 const web3 = new Web3(provider);
